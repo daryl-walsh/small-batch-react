@@ -2,6 +2,46 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.23.9](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.8...v1.23.9) (2019-11-06)
+
+### [1.23.8](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.7...v1.23.8) (2019-11-06)
+
+### [1.23.7](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.6...v1.23.7) (2019-11-06)
+
+### [1.23.6](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.2...v1.23.6) (2019-11-06)
+
+
+### Bug Fixes
+
+* **package.json:** update package.json ([1c94747](https://github.com/daryl-walsh/small-batch-react/commit/1c94747))
+
+### [1.23.5](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.2...v1.23.5) (2019-11-06)
+
+
+### Bug Fixes
+
+* **package.json:** update package.json ([1c94747](https://github.com/daryl-walsh/small-batch-react/commit/1c94747))
+
+### [1.23.4](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.2...v1.23.4) (2019-11-06)
+
+
+### Bug Fixes
+
+* **package.json:** update package.json ([1c94747](https://github.com/daryl-walsh/small-batch-react/commit/1c94747))
+
+### [1.23.3](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.2...v1.23.3) (2019-11-06)
+
+### [1.23.2](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.1...v1.23.2) (2019-11-06)
+
+### [1.23.1](https://github.com/daryl-walsh/small-batch-react/compare/v1.23.0...v1.23.1) (2019-11-06)
+
+## [1.23.0](https://github.com/daryl-walsh/small-batch-react/compare/v1.22.1...v1.23.0) (2019-11-06)
+
+
+### Features
+
+* **swagger:** add swagger api docs ([a8e80bc](https://github.com/daryl-walsh/small-batch-react/commit/a8e80bc))
+
 ### [1.22.1](https://github.com/daryl-walsh/small-batch-react/compare/v1.22.0...v1.22.1) (2019-11-06)
 
 ## [1.22.0](https://github.com/daryl-walsh/small-batch-react/compare/v1.21.1...v1.22.0) (2019-11-06)
