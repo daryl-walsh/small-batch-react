@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.22.1](https://github.com/daryl-walsh/small-batch-react/compare/v1.22.0...v1.22.1) (2019-11-06)
+
+## [1.22.0](https://github.com/daryl-walsh/small-batch-react/compare/v1.21.1...v1.22.0) (2019-11-06)
+
+
+### Features
+
+* **react_forms:** add react forms validation ([da2c76b](https://github.com/daryl-walsh/small-batch-react/commit/da2c76b))
+
+### [1.21.1](https://github.com/daryl-walsh/small-batch-react/compare/v1.21.0...v1.21.1) (2019-11-06)
+
+## [1.21.0](https://github.com/daryl-walsh/small-batch-react/compare/v1.20.2...v1.21.0) (2019-11-06)
+
+
+### Features
+
+* **cypress-setup:** setup skeleton cypress testing ([3e02a42](https://github.com/daryl-walsh/small-batch-react/commit/3e02a42))
+
+### [1.20.2](https://github.com/daryl-walsh/small-batch-react/compare/v1.20.1...v1.20.2) (2019-11-06)
+
+
+### Bug Fixes
+
+* **gitignore:** update gitignore ([2a62ad6](https://github.com/daryl-walsh/small-batch-react/commit/2a62ad6))
+* **gitignore:** update gitignore ([5a50418](https://github.com/daryl-walsh/small-batch-react/commit/5a50418))
+* **merge:** reconcile fork repo ([f044550](https://github.com/daryl-walsh/small-batch-react/commit/f044550))
+* **pkg.json:** update git repo ([7ac6741](https://github.com/daryl-walsh/small-batch-react/commit/7ac6741))
+
 ### [1.20.1](https://github.com/daryl-walsh/small-batch-react/compare/v1.20.0...v1.20.1) (2019-11-05)
 
 ## [1.20.0](https://github.com/daryl-walsh/small-batch-react/compare/v1.19.0...v1.20.0) (2019-11-05)

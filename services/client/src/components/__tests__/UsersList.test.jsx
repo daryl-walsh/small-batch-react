@@ -15,7 +15,7 @@ const users = [
   {
     active: true,
     admin: false,
-    email: 'gitopsreact@blpc.us',
+    email: 'daryl@blpc.us',
     id: 2,
     username: 'darylblpc',
   },
